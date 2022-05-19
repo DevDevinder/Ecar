@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+}
+
+.carousel {
+    width: 940px;
+    height: 660px;
+}
+
+.carousel-inner > .item > img {
+    width:940px;
+    height:660px;
+}
+  
+footer.customFooter {
+    background-color: #18454d;
+    color: white;
+
+    margin-top: auto;
+}
